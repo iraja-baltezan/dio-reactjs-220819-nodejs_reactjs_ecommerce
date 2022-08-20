@@ -1,1 +1,3 @@
 # dio-reactjs-220819-nodejs_reactjs_ecommerce
+
+Em desenvolvimento...
